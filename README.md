@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href = "mailto:qjepafigueroa@tip.edu.ph">
+  <a href = "mailto:qemhernandez1@tip.edu.ph">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
 </div>
 <p align="left">
