@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eujean Marie Hernandez</h1>
-<h3 align="justify">I am enthusiastic Computer Engineering Student.I love learning and discovering new things. I pursue programming because when I was a kid, I was curious about how technology works, especially for personal computers or PCs. I am enhancing my skills and knowledge in programming, especially languages like C++ and Python.</h3>
+<h3 align="justify">I am enthusiastic Computer Engineering Student.</h3>
 
 <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="1280" height="720"/>
 
-## <h3 align="left">Hobbies:</h3>
-- Playing Games
-- Messing with my computer
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
